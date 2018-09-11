@@ -1,0 +1,13 @@
+div.wrap>.main{width:100%;height:700px;}
+div.wrap>.main>.desc{width:55%;height:600px;margin:60px 0 0 100px;float:left;}
+div.wrap>.main>.desc>h2{padding:40px 0 0 0;}
+div.wrap>.main>.desc>span{display:inline-block;padding:30px 0;font-size:14px;}
+div.wrap>.main>.desc>p{line-height:25px;font-size:16px;text-indent:2em;letter-spacing:1px;font-size:15px;}
+div.wrap>.main>.desc>div{width:300px;height:40px;margin:50px 0 0 0;line-height:40px;}
+div.wrap>.main>.desc>div>a>img{width:25px;height:25px;margin:0 5px;}
+div.wrap>.main>.others{width:30%;height:600px;margin:60px 60px 0 0;float:right;}
+div.wrap>.main>.others>ul{width:360px;margin:0 auto;padding:60px 0 0 0;}
+div.wrap>.main>.others>ul>li{width:300px;height:70px;margin:10px 0;border-bottom:1px solid #999;}
+div.wrap>.main>.others>ul>li>h4{margin:10px;}
+div.wrap>.main>.others>ul>li>h4>a{color:black;}
+div.wrap>.main>.others>ul>li>span{display:inline-block;padding:5px;font-size:14px;}
